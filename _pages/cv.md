@@ -1,14 +1,3 @@
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
-
-{% include base_path %}
-
 Research Interests
 ======
 * AI Security
@@ -22,6 +11,17 @@ Education
 * M.S. in Computer Science [The University of Texas at San Antonio]
 * M.S. in Computer Engineering and Artificial Intelligence [Polytechnic, Iran]
 * B.S. in Computer Science [Sharif University of Technology, Iran]
+
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
 
 Work experience
 ======
