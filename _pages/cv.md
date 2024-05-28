@@ -9,11 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
+Research Interests
+======
+* AI Security
+* Knowledge Representation
+* Probabilistic Decision Making
+* Reinforcement Learning
+
 Education
 ======
-* Ph.D in Electrical and Computer Engineering [University of Texas at San Antonio]
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Electrical and Computer Engineering [The University of Texas at San Antonio]
+* M.S. in Computer Science [The University of Texas at San Antonio]
+* M.S. in Computer Engineering and Artificial Intelligence [Polytechnic, Iran]
+* B.S. in Computer Science [Sharif University of Technology, Iran]
 
 Work experience
 ======
