@@ -14,6 +14,10 @@ Paul received his B.S. degree in computer engineering from the Sharif University
 Research Interest
 ======
 My research area is machine learning, an approach to Artificial Intelligence that relies on learning from data. I’m broadly interested in inference and causality using graphical and probabilistic deep models in applications such as computer vision, natural language understanding, and cyber analytics.
+- AI security
+- Knowledge representation
+- Probabilistic decision making
+- Reinforcement learning
 
 Ph.D. Students
 ======
