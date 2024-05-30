@@ -24,9 +24,9 @@ author:
   avatar           : "najafirad_peyman.jpg"
   name             : "Dr. Peyman Najafirad (Dr. Paul Rad)"
   pronouns         : # example: "he/him"  
-  # bio              : "The University of Texas at San Antonio"
+  bio              : "The University of Texas at San Antonio"
   location         : "SP1 210B"
-  employer         : "The University of Texas \n at San Antonio"
+  #employer         : "The University of Texas \n at San Antonio"
   uri              : "https://vohongthinh2011.github.io/PeymanNajafirad/"
   email            : "Peyman.Najafirad@utsa.edu" 
 
