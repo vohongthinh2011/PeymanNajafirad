@@ -21,7 +21,7 @@ My research area is machine learning, an approach to Artificial Intelligence tha
 
 Ph.D. Students
 ======
-- Samuel Silva at samuel.silva@my.utsa.edu
+- Samuel Silva at <span style="color:blue">samuel.silva@my.utsa.edu</span>
 - Henry Chacon at Henry.Chacon@utsa.edu
 - Arun Das at arun.das@utsa.edu
 - Nihar Bendre at Nihar.Bendre@utsa.edu
