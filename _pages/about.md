@@ -21,12 +21,12 @@ My research area is machine learning, an approach to Artificial Intelligence tha
 
 Ph.D. Students
 ======
-- Samuel Silva at <span style="color:blue">samuel.silva@my.utsa.edu</span>
-- Henry Chacon at Henry.Chacon@utsa.edu
-- Arun Das at arun.das@utsa.edu
-- Nihar Bendre at Nihar.Bendre@utsa.edu
-- Nima Ebadi at nima.ebadi@utsa.edu
-- Gonzalo De La Torre Parra at Gonzalo.DeLaTorreParra@utsa.edu
+- Samuel Silva at <span style="color:#52adc8">samuel.silva@my.utsa.edu</span>
+- Henry Chacon at <span style="color:#52adc8">Henry.Chacon@utsa.edu</span>
+- Arun Das at <span style="color:#52adc8">arun.das@utsa.edu</span>
+- Nihar Bendre at <span style="color:#52adc8">Nihar.Bendre@utsa.edu</span>
+- Nima Ebadi at <span style="color:#52adc8">nima.ebadi@utsa.edu</span>
+- Gonzalo De La Torre Parra at <span style="color:#52adc8">Gonzalo.DeLaTorreParra@utsa.edu</span>
 
 For more info
 ------
