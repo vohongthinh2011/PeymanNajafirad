@@ -14,7 +14,7 @@ name                     : &name "Dr. Paul Rad"
 description              : &description "personal description"
 url                      : https://vohongthinh2011.github.io/PeymanNajafirad/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "vohongthinh2011/PeymanNajafirad"  # "academicpages/academicpages.github.io"
+repository               : "vohongthinh2011/PeymanNajafiradTemplate1/"  # "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -27,7 +27,7 @@ author:
   bio              : "The University of Texas at San Antonio"
   location         : "SP1 210B"
   #employer         : "The University of Texas \n at San Antonio"
-  uri              : "https://vohongthinh2011.github.io/PeymanNajafirad/"
+  uri              : "https://vohongthinh2011.github.io/PeymanNajafiradTemplate1/"
   email            : "Peyman.Najafirad@utsa.edu" 
 
   # Academic websites
