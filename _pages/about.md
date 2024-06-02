@@ -13,10 +13,6 @@ Paul received his B.S. degree in computer engineering from the Sharif University
 Research Interest
 ======
 My research area is machine learning, an approach to Artificial Intelligence that relies on learning from data. I’m broadly interested in inference and causality using graphical and probabilistic deep models in applications such as computer vision, natural language understanding, and cyber analytics.
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
-  
 - AI security
 - Knowledge representation
 - Probabilistic decision making
