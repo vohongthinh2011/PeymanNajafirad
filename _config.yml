@@ -25,7 +25,7 @@ author:
   name             : "Dr. Peyman Najafirad (Dr. Paul Rad)"
   pronouns         : # example: "he/him"  
   bio              : "The University of Texas at San Antonio"
-  location         : "SP1 210B"
+  location         : ["SP1 210B"](506 Dolorosa St, San Antonio, TX 78204)
   #employer         : "The University of Texas \n at San Antonio"
   uri              : "https://vohongthinh2011.github.io/PeymanNajafirad"
   email            : "Peyman.Najafirad@utsa.edu" 
