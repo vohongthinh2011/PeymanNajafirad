@@ -3,4 +3,4 @@
 
 ---
 
-[Download paper here](https://arxiv.org/abs/2401.11035)
+[Download paper](https://arxiv.org/abs/2401.11035)
