@@ -1,7 +1,7 @@
 ---
 title: "Image Safeguarding: Reasoning with Conditional Vision Language Model and Obfuscating Unsafe Content Counterfactually"
 collection: publications
-permalink: /publication/2024-01-19-Image-Safeguarding
+# permalink: /publication/2024-01-19-Image-Safeguarding
 excerpt: 'Keywords:  Image Safeguarding'
 date: 2024-01-19
 venue: 'arXiv'
