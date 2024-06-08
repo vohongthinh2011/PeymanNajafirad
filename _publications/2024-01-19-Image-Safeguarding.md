@@ -1,5 +1,5 @@
 ---
-# title: "Bethany, Mazal, Brandon Wherry, Nishant Vishwamitra, and Peyman Najafirad. Image Safeguarding: Reasoning with Conditional Vision Language Model and Obfuscating Unsafe Content Counterfactually, 2024"
+ title: 'Bethany, Mazal, Brandon Wherry, Nishant Vishwamitra, and Peyman Najafirad. Image Safeguarding: Reasoning with Conditional Vision Language Model and Obfuscating Unsafe Content Counterfactually, 2024'
 # collection: publications
 # permalink: /publication/2024-01-19-Image-Safeguarding
 # excerpt: 'Keywords:  Image Safeguarding'
@@ -8,7 +8,7 @@
 # paperurl: 'https://arxiv.org/pdf/2401.11035'
 # citation: 'Mohammad Saif Wajid, Hugo Terashima-Marin, Peyman Najafirad, Santiago Enrique Conant Pablos, Mohd Anas Wajid
 
- Keywords: 'Bethany, Mazal, Brandon Wherry, Nishant Vishwamitra, and Peyman Najafirad. Image Safeguarding: Reasoning with Conditional Vision Language Model and Obfuscating Unsafe Content Counterfactually, 2024'
+# Keywords: 'Bethany, Mazal, Brandon Wherry, Nishant Vishwamitra, and Peyman Najafirad. Image Safeguarding: Reasoning with Conditional Vision Language Model and Obfuscating Unsafe Content Counterfactually, 2024'
 ---
 
-[Download paper here](https://arxiv.org/pdf/2401.09407)
+[Download paper here](https://arxiv.org/abs/2401.11035)
