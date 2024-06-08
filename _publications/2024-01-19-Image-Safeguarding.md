@@ -1,5 +1,5 @@
 ---
-title: "Image Safeguarding: Reasoning with Conditional Vision Language Model and Obfuscating Unsafe Content Counterfactually"
+title: "Bethany, Mazal, Brandon Wherry, Nishant Vishwamitra, and Peyman Najafirad. Image Safeguarding: Reasoning with Conditional Vision Language Model and Obfuscating Unsafe Content Counterfactually, 2024"
 collection: publications
 # permalink: /publication/2024-01-19-Image-Safeguarding
 excerpt: 'Keywords:  Image Safeguarding'
