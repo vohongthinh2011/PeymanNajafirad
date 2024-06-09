@@ -3,4 +3,4 @@ title: "Bethany, Mazal, Brandon Wherry, Emet Bethany, Nishant Vishwamitra, and P
 ---
 
 
-[Download paper](https://arxiv.org/pdf/2401.09407)
+[Download paper]([https://arxiv.org/pdf/2401.09407](https://arxiv.org/abs/2401.09407))
