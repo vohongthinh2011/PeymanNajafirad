@@ -3,4 +3,4 @@ title: "Corley, Isaac, Caleb Robinson, Rahul Dodhia, Juan M. Lavista Ferres, and
 ---
 
 
-[Download paper here](https://arxiv.org/abs/2305.13456)
+[Download paper](https://arxiv.org/abs/2305.13456)
